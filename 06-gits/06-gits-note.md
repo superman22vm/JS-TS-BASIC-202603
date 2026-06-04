@@ -24,3 +24,4 @@ test123123123
 new change on the file
 
 ==> vì là có nhiều người làm push lên main liên tục nên phải update liên tục ==> git fetch, git pull
+vd: có người đã push code mới lên rồi nè
