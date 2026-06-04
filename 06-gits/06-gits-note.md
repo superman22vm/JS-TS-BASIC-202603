@@ -43,3 +43,8 @@ git checkout main
 git checkout: chuyển sang nhánh
 
 tôi đã code xong nhánh mới nhé
+
+Thêm code mới trên nhánh docs/workflow-2
+Thêm dòng 2
+Thêm dòng 3
+Thêm dòng 4
