@@ -48,3 +48,5 @@ Thêm code mới trên nhánh docs/workflow-2
 Thêm dòng 2
 Thêm dòng 3
 Thêm dòng 4
+
+checkout về main và dùng git merge "tên nhánh muốn merge"
