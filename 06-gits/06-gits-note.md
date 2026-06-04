@@ -22,3 +22,5 @@ lần đầu chưa đẩy code ==> thiết lập upstream
 
 test123123123
 new change on the file
+
+==> vì là có nhiều người làm push lên main liên tục nên phải update liên tục ==> git fetch, git pull
