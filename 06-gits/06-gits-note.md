@@ -27,3 +27,19 @@ new change on the file
 vd: có người đã push code mới lên rồi nè
 
 Thêm mới nữa nha
+
+User A kéo code về => tạo nhánh mới => dẩy merge main => main có thêm 20 dòng
+User B kéo code
+
+Cách đặt tên branch, ngắn gọn, không có khoảng trắng
+doc/git-lesson
+feat/product-search
+
+trước khi tạo nhánh mới nên quay về main
+lý do nhánh mới sẽ tạo ra trên nhánh hiện tại
+flow quay về main => pull code mới => tạo nhánh từ main
+
+git checkout main
+git checkout: chuyển sang nhánh
+
+tôi đã code xong nhánh mới nhé
