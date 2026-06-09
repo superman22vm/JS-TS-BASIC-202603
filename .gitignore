@@ -1,1 +1,4 @@
-test gitignore
+.env
+demo-before-git-ignore/
+*.log
+node_modules/
