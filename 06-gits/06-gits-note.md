@@ -50,3 +50,7 @@ Thêm dòng 3
 Thêm dòng 4
 
 checkout về main và dùng git merge "tên nhánh muốn merge"
+
+gitignore
+- Nói cho git biết là những file này đừng theo dõi
+node_modules
